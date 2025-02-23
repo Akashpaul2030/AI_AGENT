@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+
+# Compiled files
+__pycache__/
+*.py[cod]
+*.class
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+credentials.json
+config.local.json
+*.private
